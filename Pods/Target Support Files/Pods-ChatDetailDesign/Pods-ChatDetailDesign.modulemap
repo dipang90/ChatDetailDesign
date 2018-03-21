@@ -1,0 +1,6 @@
+framework module Pods_ChatDetailDesign {
+  umbrella header "Pods-ChatDetailDesign-umbrella.h"
+
+  export *
+  module * { export * }
+}
