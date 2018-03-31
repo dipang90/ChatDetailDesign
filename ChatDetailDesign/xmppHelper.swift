@@ -2,7 +2,7 @@
 //  xmppHelper.swift
 //  CrazyMessages
 //
-//  Created by Binita Modi on 21/08/17.
+//  Created by Dipang Shetn on 21/08/17.
 //  Copyright © 2017 Erlang Solutions. All rights reserved.
 //
 

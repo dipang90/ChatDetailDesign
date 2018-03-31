@@ -2,8 +2,8 @@
 //  ChatUserTableViewCell.swift
 //  ChatDetailDesign
 //
-//  Created by Binita Modi on 31/08/17.
-//  Copyright © 2017 SYNC Technologies. All rights reserved.
+//  Created by Dipang Shetn on 31/08/17.
+//  Copyright © 2017 Dipang iOS. All rights reserved.
 //
 
 import UIKit
